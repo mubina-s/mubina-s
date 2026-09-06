@@ -92,6 +92,14 @@ area, and travels toward a final research checkpoint.
 
 ## 🛠️ Technical Skills
 
+### 🤖 Embedded Systems & System Design
+
+![Embedded Systems](https://img.shields.io/badge/EMBEDDED_SYSTEMS-111111?style=for-the-badge&logoColor=FF2E93)
+![CyBot](https://img.shields.io/badge/CYBOT-FF2E93?style=for-the-badge&logoColor=white)
+![Sensors](https://img.shields.io/badge/SENSOR_SYSTEMS-111111?style=for-the-badge&logoColor=FF2E93)
+![System Design](https://img.shields.io/badge/SYSTEM_DESIGN-FF2E93?style=for-the-badge&logoColor=white)
+![Testing](https://img.shields.io/badge/TESTING-111111?style=for-the-badge&logoColor=FF2E93)
+
 ### 💻 Programming & Development
 
 ![Java](https://img.shields.io/badge/JAVA-111111?style=for-the-badge&logo=openjdk&logoColor=FF2E93)
