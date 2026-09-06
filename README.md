@@ -71,6 +71,25 @@ A two-part project combining a multi-page website with a C/Cygwin terminal order
 
 ---
 
+### 🤖 Autonomous Archaeology Survey Rover
+
+**CPRE 288 — Embedded Systems | Iowa State University**
+
+`Embedded Systems` `CyBot` `Sensors` `UART / WiFi` `PWM` `ADC` `Interrupts`
+
+A team-based autonomous rover project designed around an archaeology survey mission. 
+The CyBot navigates a simulated dig site, detects hazards, scans a designated survey 
+area, and travels toward a final research checkpoint.
+
+- Designed around separate **Travel Mode** and **Survey Mode** behaviors
+- Used bump and cliff sensing for hazard and boundary detection
+- Incorporated ping and servo scanning for object detection
+- Designed communication between the CyBot and a base-station terminal
+- Mapped sensor inputs, navigation logic, hazard avoidance, and movement control into a system architecture
+- Developed the project as part of a five-person CPRE 288 engineering team
+
+---
+
 ## 🛠️ Technical Skills
 
 ### 💻 Programming & Development
