@@ -57,7 +57,7 @@ An Android restaurant browsing and review application developed as part of a fou
 
 ---
 
-## 🥪 Subway Menu Grabber
+### 🥪 [Subway Menu Grabber](https://github.com/mubina-s/subway-menu-grabber)
 
 **Website Development Lead**  
 *SE 186 • Iowa State University*
