@@ -41,8 +41,7 @@ I'm a **Cyber Security Engineering student at Iowa State University** interested
 
 # 🚀 Featured Projects
 
-## 🍽️ Dine-Der
-
+### 🍽️ [Dine-Der](https://github.com/mubina-s/dineder)
 **Front-End Developer**  
 *COM S 3090 • Iowa State University*
 
