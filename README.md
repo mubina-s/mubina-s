@@ -3,14 +3,14 @@
 <h3 align="center">Cyber Security Engineering Student @ Iowa State University</h3>
 
 <p align="center">
-  🔐 Cybersecurity • SOC • Security Engineering • Networking • Secure Development
+  🔐 Cybersecurity • Security Engineering • Network Security • Secure Development • Systems
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CYBERSECURITY-FF2E93?style=for-the-badge&logo=hackthebox&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-111111?style=for-the-badge&logo=openjdk&logoColor=FF2E93">
   <img src="https://img.shields.io/badge/C-FF2E93?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=FF2E93">
+  <img src="https://img.shields.io/badge/LINUX-111111?style=for-the-badge&logo=linux&logoColor=FF2E93">
 </p>
 
 <p align="center">
@@ -26,71 +26,149 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Cyber Security Engineering student at Iowa State University** interested in cybersecurity engineering, security operations, networking, secure development, embedded systems, and technical problem solving.
+I'm a **Cyber Security Engineering student at Iowa State University** interested in security engineering, security operations, network security, secure development, Linux systems, and embedded systems.
 
 -  Expected graduation: **May 2027**
--  Interested in **Cybersecurity Engineering, SOC & Security Analysis**
--  Experience with **Java, C, HTML, XML, networking, client-server applications, and embedded systems**
+-  Interested in **Cybersecurity Engineering, SOC Operations, Security Analysis & Network Security**
+-  Experience with **Java, C, HTML, XML, Linux, networking, client-server applications, and embedded systems**
+-  Hands-on coursework with **Nmap, Wireshark, Splunk, pfSense, web security, vulnerability analysis, and security monitoring**
+-  Experience with **embedded systems, sensors, UART, interrupts, system design, and testing**
 -  Member of **Hacking and Cyber Security Club (HACC)**
 -  Member of **Hackathon Club**
--  Experience in **leadership, training, testing, documentation, and technical troubleshooting**
+-  Experience in **leadership, training, technical troubleshooting, testing, and documentation**
 -  Fluent in **Uzbek, Russian, and English**
--  Currently expanding my hands-on cybersecurity and engineering experience
+-  Currently expanding my hands-on cybersecurity, networking, and engineering experience
 
 ---
 
 # 🚀 Featured Projects
 
 ### 🍽️ [Dine-Der](https://github.com/mubina-s/dineder)
-**Front-End Developer**  
+
+**Android Front-End • UI • Testing • CI/CD Contributor**  
 *COM S 3090 • Iowa State University*
 
-`Java` `XML` `Android Studio` `Volley` `WebSockets`
+`Java` `XML` `Android Studio` `Volley` `WebSockets` `Spring Boot`
 
-An Android restaurant browsing and review application developed as part of a four-person software engineering team.
+A full-stack Android group dining application that helps users create shared sessions, discover restaurants, swipe on options, vote in real time, submit reviews, and manage restaurant data through an administrative interface.
 
-- Built restaurant browsing, administrator management, and in-app review functionality using **Java Activities and XML layouts**
-- Enabled client-server restaurant and review functionality by integrating **Volley HTTP requests**
-- Supported real-time reviews and user-count updates through **WebSocket-based communication**
-- Delivered front-end functionality within a **four-person development team** by coordinating navigation, features, and API integration with front-end and back-end contributors
-
----
-
-### 🥪 [Subway Menu Grabber](https://github.com/mubina-s/subway-menu-grabber)
-
-**Website Development Lead**  
-*SE 186 • Iowa State University*
-
-`HTML` `C` `Cygwin` `Visual Studio Code` `GitHub`
-
-A two-part project combining a multi-page website with a C/Cygwin terminal ordering system.
-
-- Led website development for a **four-person team** by creating a multi-page HTML interface for ordering guidance, location information, and tutorial resources
-- Helped deliver an end-to-end ordering experience by pairing the website with a **C/Cygwin terminal application**
-- Supported menu browsing, order customization, cart checkout, price calculations, and calorie calculations through the terminal workflow
-- Improved team coordination by using **GitHub version control** across front-end and back-end contributions
+- Built Android interface functionality for **restaurant browsing, account management, navigation, administrator tools, and app reviews**
+- Integrated **Volley HTTP requests** to connect Android activities with backend API functionality
+- Contributed to **WebSocket-based real-time functionality** for reviews and live application updates
+- Supported **frontend CI/CD configuration and troubleshooting**
+- Contributed to **Espresso/system testing, interface sketches, technical documentation, and feature validation**
+- Collaborated within a **four-person software engineering team** across frontend, backend, testing, and integration work
 
 ---
 
 ### 🤖 [Autonomous Archaeology Survey Rover](https://github.com/mubina-s/cybot-archaeology-survey-rover)
 
-**System Design, GUI Planning, Testing & Documentation**  
-*CPRE 288 • Embedded Systems • Iowa State University*
+**GUI Development • System Design • Testing • Documentation**  
+*CPRE 2880 • Embedded Systems • Iowa State University*
 
-`Embedded Systems` `CyBot` `Sensors` `UART / WiFi` `System Design` `Testing`
+`Embedded C` `Python` `CyBot` `Sensors` `UART / WiFi` `System Design` `Testing`
 
 A five-person embedded-systems project centered on an autonomous archaeology survey rover designed to navigate a simulated dig site, avoid hazards, scan a survey zone, and reach a research checkpoint.
 
-- Helped define the rover's technical architecture by mapping **sensor inputs, navigation logic, communication, hazard avoidance, and actuator outputs**
-- Communicated the system design through **GUI concepts, technical system sketches, and mission-flow documentation**
-- Supported validation of rover behavior by contributing to **system testing and project requirement verification**
-- Helped structure separate **Travel Mode** and **Survey Mode** behaviors for hazard navigation and survey-zone operation
-- Contributed to project planning and technical documentation as part of a **five-person engineering team**
-- Helped translate project requirements into a phased implementation plan covering movement, sensors, scanning, autonomous behavior, and destination logic
+- Contributed to the rover's **GUI development and operator-interface design**
+- Helped define the technical architecture connecting **sensor inputs, navigation logic, communication, hazard avoidance, and actuator outputs**
+- Produced **GUI concepts, system sketches, test-field sketches, and technical documentation**
+- Supported **system testing and project requirement verification**
+- Helped structure separate **Travel Mode** and **Survey Mode** behaviors
+- Contributed to project planning and system integration as part of a **five-person engineering team**
+
+---
+
+### 🥪 [Subway Menu Grabber](https://github.com/mubina-s/subway-menu-grabber)
+
+**Front-End / UI Contributor**  
+*SE 186 • Iowa State University*
+
+`HTML` `C` `Cygwin` `Visual Studio Code` `GitHub`
+
+A team software engineering project combining a multi-page website concept with a C/Cygwin terminal ordering application.
+
+- Proposed and contributed to a **website extension and user-interface work**
+- Supported an ordering workflow involving **menu browsing, customization, checkout, price calculations, and calorie calculations**
+- Contributed to **testing, project planning, and team collaboration**
+- Worked with **GitHub version control** across team contributions
+- Helped connect user-facing interface ideas with the project's C-based terminal functionality
+
+---
+
+# 📚 Selected Coursework
+
+### 🔐 [Cybersecurity Engineering Coursework](https://github.com/mubina-s/cybersecurity-engineering-coursework)
+
+`Linux Security` `Nmap` `Wireshark` `Splunk` `pfSense` `Web Security`
+
+Curated cybersecurity coursework covering **Linux security, network defense, firewalling, DNS, authentication, vulnerability assessment, web security, security monitoring, and cyber ethics**.
+
+---
+
+### 💻 [Computer Science Coursework](https://github.com/mubina-s/computer-science-coursework)
+
+`Java` `Linux` `C` `LEGv8` `Data Structures` `Computer Architecture`
+
+Selected coursework from **COMS 2280, COMS 2520, and COMS 3210**, including data structures and algorithms, Linux operating system administration, C programming, LEGv8 assembly, and machine-level programming.
+
+---
+
+### 🤖 [CPRE 2880 Coursework](https://github.com/mubina-s/cpre2880-coursework)
+
+`Embedded C` `UART` `Interrupts` `ADC` `Sensors` `Servo`
+
+Embedded-systems coursework covering robot movement, UART communication, hardware interrupts, sensor processing, object detection, ADC/IR sensing, ultrasonic sensing, and servo control.
+
+---
+
+### ⚙️ [CPRE 2810 Coursework](https://github.com/mubina-s/cpre2810-coursework)
+
+`Verilog` `FPGA` `Digital Logic` `Registers` `Counters`
+
+Digital logic and FPGA coursework covering Boolean logic, arithmetic circuits, multiplexers, flip-flops, counters, clock control, and register-file design.
+
+---
+
+### 💻 [SE 1850 Coursework](https://github.com/mubina-s/se1850-coursework)
+
+`C` `Cygwin` `ncurses` `Controller Input` `Sensor Data`
+
+Selected introductory software engineering coursework featuring C programming, controller/sensor input, data processing, terminal applications, and an interactive typing game.
+
+---
+
+<details>
+<summary><strong>📖 Additional Coursework</strong></summary>
+
+<br>
+
+### ✍️ [English Coursework](https://github.com/mubina-s/english-coursework)
+
+Research writing, rhetorical analysis, technical communication, usability studies, and cybersecurity-focused documentation.
+
+### ⚖️ [Criminal Justice Coursework](https://github.com/mubina-s/criminal-justice-coursework)
+
+Research and analysis involving criminal investigations, DNA evidence, cold cases, corrections, rehabilitation, incarceration, and criminal justice policy.
+
+</details>
 
 ---
 
 # 🛠️ Technical Skills
+
+## 🔐 Cybersecurity & Networking
+
+![Linux](https://img.shields.io/badge/LINUX-111111?style=for-the-badge&logo=linux&logoColor=FF2E93)
+![Nmap](https://img.shields.io/badge/NMAP-FF2E93?style=for-the-badge&logoColor=white)
+![Wireshark](https://img.shields.io/badge/WIRESHARK-111111?style=for-the-badge&logo=wireshark&logoColor=FF2E93)
+![Splunk](https://img.shields.io/badge/SPLUNK-FF2E93?style=for-the-badge&logo=splunk&logoColor=white)
+![pfSense](https://img.shields.io/badge/PFSENSE-111111?style=for-the-badge&logoColor=FF2E93)
+![Network Security](https://img.shields.io/badge/NETWORK_SECURITY-FF2E93?style=for-the-badge&logoColor=white)
+![Web Security](https://img.shields.io/badge/WEB_SECURITY-111111?style=for-the-badge&logoColor=FF2E93)
+![Network Troubleshooting](https://img.shields.io/badge/NETWORK_TROUBLESHOOTING-FF2E93?style=for-the-badge&logoColor=white)
+
+---
 
 ## 💻 Programming & Development
 
@@ -98,36 +176,40 @@ A five-person embedded-systems project centered on an autonomous archaeology sur
 ![C](https://img.shields.io/badge/C-FF2E93?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=FF2E93)
 ![XML](https://img.shields.io/badge/XML-FF2E93?style=for-the-badge&logoColor=white)
+![Bash](https://img.shields.io/badge/BASH-111111?style=for-the-badge&logo=gnubash&logoColor=FF2E93)
+![LEGv8](https://img.shields.io/badge/LEGv8_ASSEMBLY-FF2E93?style=for-the-badge&logoColor=white)
+![Verilog](https://img.shields.io/badge/VERILOG-111111?style=for-the-badge&logoColor=FF2E93)
 
 ---
 
-## 🌐 Networking & Communication
+## 🌐 Software & Communication Technologies
 
 ![WebSockets](https://img.shields.io/badge/WEBSOCKETS-111111?style=for-the-badge&logoColor=FF2E93)
 ![Volley](https://img.shields.io/badge/VOLLEY-FF2E93?style=for-the-badge&logoColor=white)
 ![HTTP](https://img.shields.io/badge/HTTP-111111?style=for-the-badge&logoColor=FF2E93)
-![Network Troubleshooting](https://img.shields.io/badge/NETWORK_TROUBLESHOOTING-FF2E93?style=for-the-badge&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIS-FF2E93?style=for-the-badge&logoColor=white)
 
 ---
 
-## 🤖 Embedded Systems & System Design
+## 🤖 Embedded Systems & Hardware
 
 ![Embedded Systems](https://img.shields.io/badge/EMBEDDED_SYSTEMS-111111?style=for-the-badge&logoColor=FF2E93)
 ![CyBot](https://img.shields.io/badge/CYBOT-FF2E93?style=for-the-badge&logoColor=white)
 ![Sensors](https://img.shields.io/badge/SENSOR_SYSTEMS-111111?style=for-the-badge&logoColor=FF2E93)
+![UART](https://img.shields.io/badge/UART-FF2E93?style=for-the-badge&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA-111111?style=for-the-badge&logoColor=FF2E93)
 ![System Design](https://img.shields.io/badge/SYSTEM_DESIGN-FF2E93?style=for-the-badge&logoColor=white)
-![Testing](https://img.shields.io/badge/TESTING-111111?style=for-the-badge&logoColor=FF2E93)
-![Documentation](https://img.shields.io/badge/TECHNICAL_DOCUMENTATION-FF2E93?style=for-the-badge&logoColor=white)
 
 ---
 
 ## ⚙️ Tools & Platforms
 
 ![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=FF2E93)
-![Android Studio](https://img.shields.io/badge/ANDROID_STUDIO-FF2E93?style=for-the-badge&logo=androidstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_CODE-111111?style=for-the-badge&logo=visualstudiocode&logoColor=FF2E93)
-![Cygwin](https://img.shields.io/badge/CYGWIN-FF2E93?style=for-the-badge&logoColor=white)
-![Excel](https://img.shields.io/badge/MICROSOFT_EXCEL-111111?style=for-the-badge&logo=microsoftexcel&logoColor=FF2E93)
+![Git](https://img.shields.io/badge/GIT-FF2E93?style=for-the-badge&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/ANDROID_STUDIO-111111?style=for-the-badge&logo=androidstudio&logoColor=FF2E93)
+![VS Code](https://img.shields.io/badge/VS_CODE-FF2E93?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Cygwin](https://img.shields.io/badge/CYGWIN-111111?style=for-the-badge&logoColor=FF2E93)
+![Excel](https://img.shields.io/badge/MICROSOFT_EXCEL-FF2E93?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
@@ -136,8 +218,9 @@ A five-person embedded-systems project centered on an autonomous archaeology sur
 ![Leadership](https://img.shields.io/badge/TEAM_LEADERSHIP-FF2E93?style=for-the-badge&logoColor=white)
 ![Training](https://img.shields.io/badge/TRAINING-111111?style=for-the-badge&logoColor=FF2E93)
 ![Troubleshooting](https://img.shields.io/badge/TECHNICAL_TROUBLESHOOTING-FF2E93?style=for-the-badge&logoColor=white)
+![Testing](https://img.shields.io/badge/TESTING-111111?style=for-the-badge&logoColor=FF2E93)
+![Documentation](https://img.shields.io/badge/TECHNICAL_DOCUMENTATION-FF2E93?style=for-the-badge&logoColor=white)
 ![Communication](https://img.shields.io/badge/CROSS--CULTURAL_COMMUNICATION-111111?style=for-the-badge&logoColor=FF2E93)
-![Documentation](https://img.shields.io/badge/DOCUMENTATION-FF2E93?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -150,9 +233,9 @@ A five-person embedded-systems project centered on an autonomous archaeology sur
 
 - Support weekly fundraising operations for teams of up to **50 student fundraisers** by supervising shifts, coaching performance, and maintaining team engagement
 - Train groups of up to **40 student fundraisers** by teaching core fundraising practices and providing ongoing performance guidance
-- Improve access to team performance information by maintaining **Excel-based metrics, materials, and training resources**
-- Support day-to-day technical operations by troubleshooting routine **IT and network issues**
-- Strengthen internal technical knowledge by leading **weekly tool-development knowledge-sharing sessions**
+- Improve access to performance information by maintaining **Excel-based metrics, materials, and training resources**
+- Support day-to-day operations by troubleshooting routine **IT and network issues**
+- Strengthen internal technical knowledge through **weekly tool-development knowledge-sharing**
 - Represent the Iowa State University Foundation at university events through outreach, tabling, and attendee engagement
 
 ---
@@ -164,11 +247,11 @@ A five-person embedded-systems project centered on an autonomous archaeology sur
 **Bachelor of Science — Cyber Security Engineering**  
 *Ames, Iowa*
 
-📅 Expected Graduation: **May 2027**
+📅 **Expected Graduation: May 2027**
 
-Current areas of interest:
+Areas of focus:
 
-`Cybersecurity` • `Networking` • `Security Operations` • `Secure Development` • `Embedded Systems`
+`Cybersecurity` • `Network Security` • `Security Operations` • `Secure Development` • `Linux` • `Embedded Systems`
 
 ---
 
@@ -178,7 +261,7 @@ Current areas of interest:
 
 **Member**
 
-Exploring cybersecurity concepts, technical learning, security challenges, and the broader cybersecurity community at Iowa State.
+Exploring cybersecurity concepts, technical challenges, security tools, and the broader cybersecurity community at Iowa State University.
 
 ---
 
@@ -198,20 +281,13 @@ Helped launch the organization and supported its early social media presence, ou
 
 ---
 
-# 🎯 Current Goals
+# 🎯 Current Focus
 
-I'm currently focused on developing deeper practical experience in:
+I'm currently building deeper hands-on experience in:
 
-`Cybersecurity` • `Security Analysis` • `SOC` • `Networking` • `Secure Development` • `System Design`
+`Security Analysis` • `Network Security` • `SOC Operations` • `Linux Security` • `Secure Development`
 
-My goals are to:
-
--  Build hands-on cybersecurity projects
--  Strengthen networking and security analysis skills
--  Gain experience with cybersecurity tools, labs, and real-world security scenarios
--  Continue developing my programming and software engineering skills
--  Expand my understanding of embedded systems and system design
--  Prepare for cybersecurity engineering, SOC, and security analyst opportunities
+I'm especially interested in opportunities where I can combine **cybersecurity, software engineering, networking, and systems knowledge**.
 
 ---
 
@@ -221,6 +297,25 @@ My goals are to:
 - 🇷🇺 **Russian** — Fluent
 - 🇺🇸 **English** — Fluent
 - 🇹🇷 **Turkish** — Beginner
+
+---
+
+# 🌸 Hobbies & Interests
+
+Outside of cybersecurity and engineering, I enjoy spending time on creative interests and learning about topics beyond technology.
+
+-  **Criminal Justice** — I enjoy learning about criminal investigations, corrections, forensic evidence, justice policy, and how technology intersects with the legal system
+-  **Writing Poetry** — I enjoy expressing ideas, emotions, and experiences through poetry
+-  **Drawing** — I like using art as a creative outlet
+-  **Sleeping & Recharging** — probably one of my most consistent hobbies
+
+---
+
+# 🎀 Fun Fact
+
+> 😴 **I can sleep for up to 24 hours straight without waking up.**
+
+Apparently debugging isn't the only thing I can do for long stretches. 😄
 
 ---
 
@@ -236,10 +331,14 @@ My goals are to:
     <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=FF2E93">
   </a>
 
+  <a href="https://github.com/mubina-s">
+    <img src="https://img.shields.io/badge/GITHUB-FF2E93?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
 </p>
 
 <p align="center">
-  🌸 <strong>Personal Portfolio — Coming Soon</strong>
+  🌸 <strong>Personal Cybersecurity Portfolio — Coming Soon</strong>
 </p>
 
 ---
