@@ -73,7 +73,7 @@ A two-part project combining a multi-page website with a C/Cygwin terminal order
 
 ---
 
-## 🤖 Autonomous Archaeology Survey Rover
+### 🤖 [Autonomous Archaeology Survey Rover](https://github.com/mubina-s/cybot-archaeology-survey-rover)
 
 **System Design, GUI Planning, Testing & Documentation**  
 *CPRE 288 • Embedded Systems • Iowa State University*
