@@ -1,129 +1,103 @@
-# Hi, I'm Mubina Sadriddinova
+<h1 align="center">Hi, I'm Mubina Sadriddinova!</h1>
 
-### Cyber Security Engineering @ Iowa State University
+<p align="center">
+  <strong>Cyber Security Engineering @ Iowa State University</strong><br>
+  <code>security × systems × networks × embedded engineering</code>
+</p>
+<p align="center">
+  <strong>Security lives between the layers.</strong>
+</p>
 
-I like working where **security, software, systems, and hardware intersect**.
+<p align="center">
+  <a href="https://mubina-s.github.io/mubina-portfolio/">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/mubina-sadriddinova-bb889a363/">LinkedIn</a>
+</p>
 
-My GitHub is the technical side of my work: repositories, implementation details, coursework collections, and engineering projects.  
-For the broader story behind my work, visit my [portfolio](https://mubina-s.github.io/mubina-portfolio/).
-
-`Cybersecurity` · `Linux` · `Networks` · `Embedded Systems` · `Software Engineering` · `Agentic AI`
-
----
-
-## 🔐 Featured Security Work
-
-### [Cybersecurity Engineering Coursework](https://github.com/mubina-s/cybersecurity-engineering-coursework)
-
-Curated Cybersecurity Engineering coursework covering:
-
-- Linux security and system administration
-- Network analysis with Wireshark
-- Host and service enumeration with Nmap
-- Firewall and network configuration with pfSense
-- Security monitoring and log analysis with Splunk
-- DNS, SSH, TLS, and network protocol analysis
-- Vulnerability and CVE research
-- Web security concepts including SQL injection and XSS
-- Legal, ethical, and professional cybersecurity topics
-
-> Coursework is documented with academic integrity and security in mind. Sensitive lab infrastructure, credentials, IP addresses, restricted course materials, and unsafe offensive details are not published.
 
 ---
 
-## ⚙️ Featured Engineering Projects
+I like understanding systems from the inside out — how software talks to the operating system, how traffic moves across a network, how hardware responds, and where security can fail between those layers.
 
-### [Autonomous Archaeology Survey Rover](https://github.com/mubina-s/cybot-archaeology-survey-rover)
+This GitHub is the technical side of my work: **code, lab write-ups, architecture notes, testing, and project documentation**.
 
-Embedded systems and robotics project focused on sensor-driven navigation, system integration, communication, testing, and operator visibility.
+## Selected work
 
-**My work includes:**
-- GUI development
-- System and workflow design
-- Sensor/navigation integration planning
-- Testing and mission validation
-- Technical documentation
+### [`cybersecurity-engineering-coursework`](https://github.com/mubina-s/cybersecurity-engineering-coursework)
 
-`Python` `C` `Tkinter` `Sensors` `UART` `WiFi` `Embedded Systems`
+Curated security work from Iowa State covering Linux security, network defense, vulnerability analysis, web security, and monitoring.
 
----
+**Worked with**  
+`Linux` `Nmap` `Wireshark` `Splunk` `pfSense` `DNS` `SSH` `TLS`
 
-### [Dine-Der](https://github.com/mubina-s/dineder)
-
-Full-stack Android group dining application with restaurant discovery, shared sessions, reviews, admin management, and real-time interaction.
-
-**My work includes:**
-- Android front-end development
-- REST communication with Volley
-- WebSocket integration for real-time features
-- UI and navigation workflows
-- Testing and debugging
-- CI/CD troubleshooting
-
-`Java` `XML` `Android` `Spring Boot` `REST API` `WebSockets` `MySQL`
+I document the technical ideas and lessons while keeping credentials, private lab infrastructure, restricted course material, and unsafe offensive details out of the repository.
 
 ---
 
-## 🧠 Currently Building
+### [`cybot-archaeology-survey-rover`](https://github.com/mubina-s/cybot-archaeology-survey-rover)
+
+An embedded rover project built around sensor-driven navigation, communication, autonomous behavior, and testing.
+
+**My focus**  
+GUI development · system/workflow design · integration planning · validation · technical documentation
+
+`Python` `C` `Tkinter` `Sensors` `UART` `WiFi`
+
+---
+
+### [`dineder`](https://github.com/mubina-s/dineder)
+
+A full-stack Android group dining app with restaurant discovery, shared sessions, reviews, admin tools, and real-time interaction.
+
+**My focus**  
+Android front end · Volley/REST integration · WebSockets · UI flows · testing · CI/CD troubleshooting
+
+`Java` `XML` `Android` `Spring Boot` `REST` `WebSockets` `MySQL`
+
+## Currently building
 
 ### LLM Agentic System for Circuit Card Design
 
-Senior design project exploring how an **LLM-based agentic system** can automate parts of early-stage circuit-card design.
+My senior design team is exploring how an **LLM-based agentic system** can support parts of early-stage circuit-card design for an industry client.
 
-Current areas of work include:
-
-- Python-based agent development
-- Linux server environments
-- Docker containers
-- Engineering requirements
-- Hardware-design workflow analysis
-- LLM experimentation
-- Cloud-based development
-
-The project is being developed with an industry client and will evaluate the workflow using an embedded machine-learning hardware design.
+Right now, the work is centered on requirements, hardware-design workflow analysis, Linux/server setup, Docker, Python, and agent development. The system will ultimately be evaluated using an embedded machine-learning hardware design.
 
 `Python` `Linux` `Docker` `LLM Agents` `Cloud Development` `Hardware Design`
 
----
+## Coursework archive
 
-## 📚 Coursework Collections
+I keep selected coursework in separate repositories so each subject has its own context instead of turning GitHub into one giant class archive.
 
-I keep selected coursework in separate repositories so each area has its own technical context instead of mixing everything into one archive.
-
-| Repository | Focus |
+| Repository | What it shows |
 |---|---|
-| [computer-science-coursework](https://github.com/mubina-s/computer-science-coursework) | Data structures, Linux system administration, computer architecture, and machine-level programming |
-| [cpre2810-coursework](https://github.com/mubina-s/cpre2810-coursework) | Digital logic, Verilog, FPGA design, arithmetic circuits, multiplexers, sequential logic, counters, and register files |
-| [cpre2880-coursework](https://github.com/mubina-s/cpre2880-coursework) | Embedded C, robot movement, UART communication, interrupts, sensor processing, object detection, and servo control |
-| [cybersecurity-engineering-coursework](https://github.com/mubina-s/cybersecurity-engineering-coursework) | Linux security, network defense, vulnerability assessment, web security, monitoring, and cyber ethics |
-| [english-coursework](https://github.com/mubina-s/english-coursework) | Research writing, rhetorical analysis, technical communication, usability studies, and cybersecurity-focused documentation |
-| [se1850-coursework](https://github.com/mubina-s/se1850-coursework) | C programming, controller input, sensor processing, terminal applications, and an interactive typing game |
-| [criminal-justice-coursework](https://github.com/mubina-s/criminal-justice-coursework) | Criminal justice research and coursework |
-| [subway-menu-grabber](https://github.com/mubina-s/subway-menu-grabber) | Early team software project using C, HTML, testing, and Git collaboration |
+| [`computer-science-coursework`](https://github.com/mubina-s/computer-science-coursework) | Data structures, Linux administration, computer architecture, and machine-level programming |
+| [`cpre2810-coursework`](https://github.com/mubina-s/cpre2810-coursework) | Digital logic, Verilog, FPGA design, arithmetic circuits, sequential logic, counters, and register files |
+| [`cpre2880-coursework`](https://github.com/mubina-s/cpre2880-coursework) | Embedded C, UART, interrupts, sensor processing, object detection, robot movement, and servo control |
+| [`cybersecurity-engineering-coursework`](https://github.com/mubina-s/cybersecurity-engineering-coursework) | Linux security, network defense, vulnerability assessment, web security, monitoring, and cyber ethics |
+| [`english-coursework`](https://github.com/mubina-s/english-coursework) | Research writing, technical communication, usability work, and cybersecurity-focused documentation |
+| [`se1850-coursework`](https://github.com/mubina-s/se1850-coursework) | C programming, controller input, sensor processing, terminal applications, and an interactive typing game |
+| [`criminal-justice-coursework`](https://github.com/mubina-s/criminal-justice-coursework) | Criminal justice research and coursework |
+| [`subway-menu-grabber`](https://github.com/mubina-s/subway-menu-grabber) | An earlier team software project using C, HTML, testing, UI work, and Git collaboration |
 
----
-
-## 🧩 How I Think About Engineering
-
-I enjoy understanding how the layers of a system interact:
+## How I think about systems
 
 ```text
-Application
+application
     ↓
-Software
+software
     ↓
-Operating System
+operating system
     ↓
-Network
+network
     ↓
-Hardware
+hardware
 ```
 
-That systems view is one reason I am especially interested in cybersecurity: security problems rarely exist in only one layer.
+That is what pulled me toward cybersecurity.
 
----
+A security problem usually makes more sense when I can trace what is happening across the system instead of treating an alert, packet, process, or device as an isolated thing.
 
-## 🛠️ Technical Areas
+## Toolbox
 
 **Security**  
 `Linux` `Nmap` `Wireshark` `Splunk` `pfSense` `Vulnerability Analysis` `Security Monitoring`
@@ -131,31 +105,33 @@ That systems view is one reason I am especially interested in cybersecurity: sec
 **Programming**  
 `Python` `Java` `C` `Bash` `HTML` `XML` `Verilog`
 
-**Networking & Systems**  
+**Systems & networking**  
 `HTTP/REST` `WebSockets` `DNS` `SSH` `TLS` `UART` `Embedded Systems`
 
 **Development**  
-`Git` `GitHub` `Android Studio` `VS Code` `Docker`
+`Git` `GitHub` `Docker` `Android Studio` `VS Code`
 
----
+## What I am exploring next
 
-## 🌱 What I'm Exploring Next
-
-- Security monitoring and detection engineering
-- Network and wireless security
+- detection and security monitoring
+- wireless and network security
 - Linux and systems security
-- Security automation
-- Embedded and hardware security
-- Agentic AI for engineering workflows
+- security automation
+- embedded and hardware security
+- agentic AI for engineering workflows
+
+## A note on this profile
+
+My **resume** is the concise version of what I have done.  
+My **portfolio** is the visual story behind the projects.  
+This GitHub is where I keep the technical proof.
 
 ---
 
-## 🌐 Elsewhere
+<p align="center">
+  <a href="https://mubina-s.github.io/mubina-portfolio/"><strong>Portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/mubina-sadriddinova-bb889a363/"><strong>LinkedIn</strong></a>
+</p>
 
-- **Portfolio:** [mubina-s.github.io/mubina-portfolio](https://mubina-s.github.io/mubina-portfolio/)
-- **LinkedIn:** [Mubina Sadriddinova](https://www.linkedin.com/in/mubina-sadriddinova-bb889a363/)
-- **Portfolio source:** [mubina-portfolio](https://github.com/mubina-s/mubina-portfolio)
-
----
-
-> **Security × Software × Systems**
+<p align="center"><sub>security × software × systems</sub></p>
