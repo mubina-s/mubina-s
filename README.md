@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mubina Sadriddinova 👋</h1>
+<h1 align="center">Hi, I'm Mubina Sadriddinova </h1>
 
 <h3 align="center">Cyber Security Engineering Student @ Iowa State University</h3>
 
@@ -43,7 +43,7 @@ I'm a **Cyber Security Engineering student at Iowa State University** interested
 
 # 🚀 Featured Projects
 
-### 🍽️ [Dine-Der](https://github.com/mubina-s/dineder)
+### [Dine-Der](https://github.com/mubina-s/dineder)
 
 **Android Front-End • UI • Testing • CI/CD Contributor**  
 *COM S 3090 • Iowa State University*
@@ -61,7 +61,7 @@ A full-stack Android group dining application that helps users create shared ses
 
 ---
 
-### 🤖 [Autonomous Archaeology Survey Rover](https://github.com/mubina-s/cybot-archaeology-survey-rover)
+### [Autonomous Archaeology Survey Rover](https://github.com/mubina-s/cybot-archaeology-survey-rover)
 
 **GUI Development • System Design • Testing • Documentation**  
 *CPRE 2880 • Embedded Systems • Iowa State University*
@@ -79,7 +79,7 @@ A five-person embedded-systems project centered on an autonomous archaeology sur
 
 ---
 
-### 🥪 [Subway Menu Grabber](https://github.com/mubina-s/subway-menu-grabber)
+### [Subway Menu Grabber](https://github.com/mubina-s/subway-menu-grabber)
 
 **Front-End / UI Contributor**  
 *SE 186 • Iowa State University*
@@ -98,7 +98,7 @@ A team software engineering project combining a multi-page website concept with 
 
 # 📚 Selected Coursework
 
-### 🔐 [Cybersecurity Engineering Coursework](https://github.com/mubina-s/cybersecurity-engineering-coursework)
+### [Cybersecurity Engineering Coursework](https://github.com/mubina-s/cybersecurity-engineering-coursework)
 
 `Linux Security` `Nmap` `Wireshark` `Splunk` `pfSense` `Web Security`
 
@@ -106,7 +106,7 @@ Curated cybersecurity coursework covering **Linux security, network defense, fir
 
 ---
 
-### 💻 [Computer Science Coursework](https://github.com/mubina-s/computer-science-coursework)
+### [Computer Science Coursework](https://github.com/mubina-s/computer-science-coursework)
 
 `Java` `Linux` `C` `LEGv8` `Data Structures` `Computer Architecture`
 
@@ -114,7 +114,7 @@ Selected coursework from **COMS 2280, COMS 2520, and COMS 3210**, including data
 
 ---
 
-### 🤖 [CPRE 2880 Coursework](https://github.com/mubina-s/cpre2880-coursework)
+### [CPRE 2880 Coursework](https://github.com/mubina-s/cpre2880-coursework)
 
 `Embedded C` `UART` `Interrupts` `ADC` `Sensors` `Servo`
 
@@ -122,7 +122,7 @@ Embedded-systems coursework covering robot movement, UART communication, hardwar
 
 ---
 
-### ⚙️ [CPRE 2810 Coursework](https://github.com/mubina-s/cpre2810-coursework)
+### [CPRE 2810 Coursework](https://github.com/mubina-s/cpre2810-coursework)
 
 `Verilog` `FPGA` `Digital Logic` `Registers` `Counters`
 
@@ -130,7 +130,7 @@ Digital logic and FPGA coursework covering Boolean logic, arithmetic circuits, m
 
 ---
 
-### 💻 [SE 1850 Coursework](https://github.com/mubina-s/se1850-coursework)
+### [SE 1850 Coursework](https://github.com/mubina-s/se1850-coursework)
 
 `C` `Cygwin` `ncurses` `Controller Input` `Sensor Data`
 
@@ -143,11 +143,11 @@ Selected introductory software engineering coursework featuring C programming, c
 
 <br>
 
-### ✍️ [English Coursework](https://github.com/mubina-s/english-coursework)
+### [English Coursework](https://github.com/mubina-s/english-coursework)
 
 Research writing, rhetorical analysis, technical communication, usability studies, and cybersecurity-focused documentation.
 
-### ⚖️ [Criminal Justice Coursework](https://github.com/mubina-s/criminal-justice-coursework)
+### [Criminal Justice Coursework](https://github.com/mubina-s/criminal-justice-coursework)
 
 Research and analysis involving criminal investigations, DNA evidence, cold cases, corrections, rehabilitation, incarceration, and criminal justice policy.
 
@@ -157,7 +157,7 @@ Research and analysis involving criminal investigations, DNA evidence, cold case
 
 # 🛠️ Technical Skills
 
-## 🔐 Cybersecurity & Networking
+## Cybersecurity & Networking
 
 ![Linux](https://img.shields.io/badge/LINUX-111111?style=for-the-badge&logo=linux&logoColor=FF2E93)
 ![Nmap](https://img.shields.io/badge/NMAP-FF2E93?style=for-the-badge&logoColor=white)
@@ -170,7 +170,7 @@ Research and analysis involving criminal investigations, DNA evidence, cold case
 
 ---
 
-## 💻 Programming & Development
+## Programming & Development
 
 ![Java](https://img.shields.io/badge/JAVA-111111?style=for-the-badge&logo=openjdk&logoColor=FF2E93)
 ![C](https://img.shields.io/badge/C-FF2E93?style=for-the-badge&logo=c&logoColor=white)
@@ -182,7 +182,7 @@ Research and analysis involving criminal investigations, DNA evidence, cold case
 
 ---
 
-## 🌐 Software & Communication Technologies
+## Software & Communication Technologies
 
 ![WebSockets](https://img.shields.io/badge/WEBSOCKETS-111111?style=for-the-badge&logoColor=FF2E93)
 ![Volley](https://img.shields.io/badge/VOLLEY-FF2E93?style=for-the-badge&logoColor=white)
@@ -191,7 +191,7 @@ Research and analysis involving criminal investigations, DNA evidence, cold case
 
 ---
 
-## 🤖 Embedded Systems & Hardware
+## Embedded Systems & Hardware
 
 ![Embedded Systems](https://img.shields.io/badge/EMBEDDED_SYSTEMS-111111?style=for-the-badge&logoColor=FF2E93)
 ![CyBot](https://img.shields.io/badge/CYBOT-FF2E93?style=for-the-badge&logoColor=white)
@@ -202,7 +202,7 @@ Research and analysis involving criminal investigations, DNA evidence, cold case
 
 ---
 
-## ⚙️ Tools & Platforms
+## Tools & Platforms
 
 ![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=FF2E93)
 ![Git](https://img.shields.io/badge/GIT-FF2E93?style=for-the-badge&logo=git&logoColor=white)
@@ -213,7 +213,7 @@ Research and analysis involving criminal investigations, DNA evidence, cold case
 
 ---
 
-## 🤝 Professional Skills
+## Professional Skills
 
 ![Leadership](https://img.shields.io/badge/TEAM_LEADERSHIP-FF2E93?style=for-the-badge&logoColor=white)
 ![Training](https://img.shields.io/badge/TRAINING-111111?style=for-the-badge&logoColor=FF2E93)
@@ -281,7 +281,7 @@ Helped launch the organization and supported its early social media presence, ou
 
 ---
 
-# 🎯 Current Focus
+# Current Focus
 
 I'm currently building deeper hands-on experience in:
 
@@ -300,7 +300,7 @@ I'm especially interested in opportunities where I can combine **cybersecurity, 
 
 ---
 
-# 🌸 Hobbies & Interests
+# Hobbies & Interests
 
 Outside of cybersecurity and engineering, I enjoy spending time on creative interests and learning about topics beyond technology.
 
@@ -313,7 +313,7 @@ Outside of cybersecurity and engineering, I enjoy spending time on creative inte
 
 # 🎀 Fun Fact
 
-> 😴 **I can sleep for up to 24 hours straight without waking up.**
+>  **I can sleep for up to 24 hours straight without waking up.**
 
 Apparently debugging isn't the only thing I can do for long stretches. 😄
 
@@ -335,10 +335,6 @@ Apparently debugging isn't the only thing I can do for long stretches. 😄
     <img src="https://img.shields.io/badge/GITHUB-FF2E93?style=for-the-badge&logo=github&logoColor=white">
   </a>
 
-</p>
-
-<p align="center">
-  🌸 <strong>Personal Cybersecurity Portfolio — Coming Soon</strong>
 </p>
 
 ---
